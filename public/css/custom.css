@@ -1,0 +1,12 @@
+.sidebar-icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+.sidebar-item-icon {
+    width: 24px;
+    height: 24px;
+    fill: white;
+}
