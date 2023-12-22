@@ -2,6 +2,19 @@
     font-size: 16px;
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container img {
+    border-radius: 100%;
+    object-fit: cover;
+    width: 128px;
+    height: 128px;
+}
+
 .sidebar-icons {
     display: flex;
     justify-content: space-evenly;
