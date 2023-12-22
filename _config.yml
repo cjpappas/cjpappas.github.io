@@ -2,8 +2,7 @@ title:          Cameron Pappas
 tagline:        ""
 description:    ""
 domain:         cjpappas.github.io
-url:            https://cjpappas.github.io 
-baseurl:        ""
+#url:            https://cjpappas.github.io 
 paginate:       5
 permalink:      pretty
 
